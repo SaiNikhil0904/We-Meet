@@ -27,9 +27,11 @@ To run this application, ensure you have the following:
 ![Home Page](https://github.com/SaiNikhil0904/We-Meet/assets/98106917/277d6e0a-c4ab-4390-9a4e-a3c59f0bf74c)
 
 ## Explore the Work
+
 Feel free to delve into our codebase, documentation, and the features we've implemented. Your feedback and engagement are highly valued as we continue refining and expanding our application.
 
 ## Team
+
 - Anish Borkar
 - Anoushka Srivastava
 - Dyuti Dasmahapatra 
@@ -37,10 +39,13 @@ Feel free to delve into our codebase, documentation, and the features we've impl
 - Nichenametla Karthik Raja
 
 ## Mentor
+
 Our heartfelt thanks to **Dr. Nitin Varyani** for his invaluable guidance and support throughout the development of this project.
 
 ## Contact Us
+
 For inquiries, collaboration opportunities, or further information, please feel free to reach out to:
+
 Email: [nikhilgodavarthi9@gmail.com](mailto:nikhilgodavarthi9@gmail.com)
 
 Thank you for joining us on this journey towards more immersive and efficient virtual communication!
